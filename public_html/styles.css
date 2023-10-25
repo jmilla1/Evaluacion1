@@ -1,0 +1,79 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Oct 25, 2023, 10:49:55 AM
+    Author     : joaquinmilla
+*/
+
+/* Estilos para el fondo y el cuerpo de la página */
+body {
+    background-color: #f7f7f7; 
+    font-family: 'Helvetica Neue', Arial, sans-serif; 
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+/* Estilos para la sección de perfil */
+section {
+    padding: 20px;
+}
+
+img {
+    max-width: 200px; 
+    border-radius: 50%; 
+}
+
+h2 {
+    font-size: 24px; 
+    color: #333; 
+
+p {
+    margin: 20px 0; 
+    color: #666; 
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Estilos para los enlaces */
+a {
+    text-decoration: none;
+    color: #0074D9; 
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3; 
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px;
+}
+
+/* Estilos para los derechos de autor */
+footer p {
+    font-size: 12px;
+}
